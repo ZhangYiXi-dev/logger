@@ -1,0 +1,4 @@
+C:\Users\hsq\Desktop\1.日志\Debug\1.日志.exe
+C:\Users\hsq\Desktop\1.日志\Debug\1.日志.pdb
+C:\Users\hsq\Desktop\工作\项目\1.日志\Debug\1.日志.exe
+C:\Users\hsq\Desktop\工作\项目\1.日志\Debug\1.日志.pdb
